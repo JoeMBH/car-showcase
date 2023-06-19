@@ -8,6 +8,7 @@ const CustomButton = ({
   title,
   containerStyles,
   handleClick,
+  btnType
 }: CustomButtonProps) => {
   return (
     <button
